@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.647b49df.css",
+    "main.js": "/static/js/main.0ba6f5da.js",
+    "static/media/heroImage2.png": "/static/media/heroImage2.f24b761cb1ac42441c11.png",
+    "static/media/Boostrap.png": "/static/media/Boostrap.f132cb791703420e69ca.png",
+    "static/media/reactImage.png": "/static/media/reactImage.0cf951a69d8e58f83f9d.png",
+    "static/media/Python.png": "/static/media/Python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/Django1.png": "/static/media/Django1.84c8c0c7b168f5cbbcdf.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.647b49df.css.map": "/static/css/main.647b49df.css.map",
+    "main.0ba6f5da.js.map": "/static/js/main.0ba6f5da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.647b49df.css",
+    "static/js/main.0ba6f5da.js"
+  ]
+}
